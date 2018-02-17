@@ -13,10 +13,10 @@ Keys:
 * `FetchStatus.LOADED`
 * `FetchStatus.FAILED`
 
-\*\*\* `resolveInitialFetchStatus(...statuses: Array<FetchStatusEnum>): FetchStatusEnum`
+### `resolveInitialFetchStatus(...statuses: Array<FetchStatusEnum>): FetchStatusEnum`
 
 Resolve a single status from multiple statuses for an initial case. Gives priority to `FetchStatus.LOADED` and `FetchStatus.LOADING`.
 
-\*\*\* `resolveFetchStatus(...statuses: Array<FetchStatusEnum>): FetchStatusEnum`
+### `resolveFetchStatus(...statuses: Array<FetchStatusEnum>): FetchStatusEnum`
 
 Resolve a single status from multiple statuses for a generic case. Gives priority to `FetchStatus.FAILED` and `FetchStatus.LOADED`.
