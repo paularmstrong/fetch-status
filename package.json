@@ -1,6 +1,6 @@
 {
   "name": "fetch-status",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "FetchStatus pattern and utility functions for web applications",
   "main": "dist",
   "author": "Paul Armstrong <paul@spaceyak.com>",
