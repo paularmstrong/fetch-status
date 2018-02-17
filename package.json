@@ -44,5 +44,14 @@
     "prettier": "^1.10.2",
     "rimraf": "^2.6.2"
   },
-  "files": ["dist/", "LICENSE", "README.md"]
+  "files": ["dist/", "LICENSE", "README.md"],
+  "bugs": {
+    "url": "https://github.com/paularmstrong/fetch-status/issues"
+  },
+  "homepage": "https://github.com/paularmstrong/fetch-status",
+  "repository": {
+    "url": "https://github.com/paularmstrong/fetch-status.git",
+    "type": "git"
+  },
+  "tags": ["fetchStatus", "loading"]
 }
